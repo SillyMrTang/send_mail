@@ -70,9 +70,9 @@ class SendMail(object):
 
 if __name__ == '__main__':
     m = SendMail(
-        username='sillymrtang@163.com',
-        passwd='wenjing0825',
-        recv=['653411722@qq.com'],
+        username='sxxxxxx@163.com',
+        passwd='xxxxx',
+        recv=['xxxxx@qq.com'],
         title='xxx求职简历',
         content='',
         file='C:/Users/Administrator/Desktop/Flask_project/jian.docx',
